@@ -1,0 +1,33 @@
+_repo: The-Writings-of-James-Russell-Lowell-in-Prose-and-Poetry-Volume-VPolitical-Essays_22609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+description: ''
+gutenberg_issued: '2007-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1865-1869'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcc 'E456'
+title: 'The Writings of James Russell Lowell in Prose and Poetry, Volume V
+
+  Political Essays'
+url: http://www.gutenberg.org/ebooks/22609
